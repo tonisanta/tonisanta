@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with AWS
 - 💬 Ask me about my experience as student
 - 📫 How to reach me: [santandreutoni@gmail.com](mailto:santandreutoni@gmail.com)
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I was fan of M.Word but nowadays I'm working with Latex
